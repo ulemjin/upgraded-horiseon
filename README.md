@@ -15,6 +15,7 @@ Accessibility features allow for inclusivity for all users and improve on the SE
 3. Adding descriptive alt attributes for img
         Descriptive sentences for images that convey meaning, and blank alt attributes for icons. 
 4. Title for website is descriptive, so user knows what their tab page has. 
+5. Added comments in HTML and CSS code to make it easier to identify the parts of the code, and clean up the structure in a semantic order. 
 
 ## Website
 https://ulemjin.github.io/upgraded-horiseon/
