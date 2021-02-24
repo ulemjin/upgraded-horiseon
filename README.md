@@ -22,7 +22,7 @@ Live URL: https://ulemjin.github.io/upgraded-horiseon/
 Github page: https://github.com/ulemjin/upgraded-horiseon.git 
 
 ## Screenshots
-![Screenshot-Horiseon](https://user-images.githubusercontent.com/76715495/109018327-01a1ac80-7686-11eb-8d1d-6cdfb8966d8f.png)
+![Screenshot-Horiseon](https://user-images.githubusercontent.com/76715495/109056281-417c8a00-76ae-11eb-98cf-2a29230f90e4.png)
 
 ## Contribution
 Made by Ulemjin Badral
