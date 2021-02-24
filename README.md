@@ -14,6 +14,7 @@ Accessibility features allow for inclusivity for all users and improve on the SE
         Removing unnecessary class attributes in the benefits section in HTML.
 3. Adding descriptive alt attributes for img
         Descriptive sentences for images that convey meaning, and blank alt attributes for icons. 
+4. Title for website is descriptive, so user knows what their tab page has. 
 
 ## Website
 https://ulemjin.github.io/upgraded-horiseon/
